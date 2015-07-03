@@ -1,0 +1,123 @@
+{
+ "sections": [
+  {
+   "id": "e4e4b4ec-8460-5306-74ff-1669774e9dae",
+   "title": "Introduction",
+   "files": [],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-e4e4.md"
+  },
+  {
+   "id": "7596b5d5-7fdf-1dd8-5fe-f5a3652c775",
+   "title": "Some terminology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Some-terminology-7596.md"
+  },
+  {
+   "id": "19083fd-eb99-12d6-dcc5-bfd4a1d4b5de",
+   "title": "A very simple web page",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "03-very-simple-page/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 03-very-simple-page/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "03-very-simple-page"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A-very-simple-web-page-1908.md"
+  },
+  {
+   "id": "7e11e269-21cc-8bf2-5748-57704a238518",
+   "title": "A slightly more complex page",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "04-slightly-more-complex/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 04-slightly-more-complex/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "04-slightly-more-complex"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/A-slightly-more-complex-page-7e11.md"
+  },
+  {
+   "id": "c7ec8f06-4f94-d0f1-c372-607732e723cc",
+   "title": "What is a tag ?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-a-tag---c7ec.md"
+  },
+  {
+   "id": "50dbd402-bb1a-bb7f-7e0b-5e4f429f3444",
+   "title": "Fix it !",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "06-fixit/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 06-fixit/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [
+    "06-fixit"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Fix-it---50db.md"
+  },
+  {
+   "id": "762e5fc3-984d-996e-2b2a-3242b03c2f9b",
+   "title": "Formatting text",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-7-762e.md"
+  }
+ ],
+ "theme": "charcoal",
+ "scripts": []
+}

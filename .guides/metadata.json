@@ -115,7 +115,85 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-7-762e.md"
+   "content-file": ".guides/content/Formatting-text-762e.md"
+  },
+  {
+   "id": "a93ffb7e-b2b3-1a-5856-78fbb627100a",
+   "title": "Images !",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "08-img/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 08-img/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "08-img"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Images---a93f.md"
+  },
+  {
+   "id": "e6d3eed9-36be-bb5a-2bbb-1fe55e6eb00a",
+   "title": "Image attributes",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "08-img/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 08-img/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "08-img"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Image-attributes-e6d3.md"
+  },
+  {
+   "id": "e39e16c6-2bb3-bf2e-c5c9-26f6381e5b9c",
+   "title": "Indenting",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "10-indent/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: 10-indent/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "10-indent"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Indenting-e39e.md"
   }
  ],
  "theme": "charcoal",

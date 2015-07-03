@@ -1,11 +1,9 @@
-Let's start by defining what a web page is.
-
 
 |||info
 A ==web page== is an ==HTML== document, that is stored on a ==server== and sent to your ==browser== through ==internet==.
 ||||
 
-Now let's define all the terms in this sentence.
+Now let's define all the terms in this sentence :
 
 |||definition
 # Web page

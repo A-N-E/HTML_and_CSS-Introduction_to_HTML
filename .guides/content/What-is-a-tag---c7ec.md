@@ -26,7 +26,7 @@ Here is our basic html from sections 3.
 </html>
 ```
 
-![](.guides/img/html_boxes.png)
+<iframe  width="100%" height="55%" src="https://fruit-active.codio.io/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe>
 
 And here is a way of viewing it as "boxes".
 So we have the `<html>` tag which is the first box of every html document.
@@ -44,7 +44,9 @@ Indeed if you dont close a tag it is like you left the box openened and didnt cl
 
 Let see what it looks like if we didnt close the `<title>` tag in the previous example :
 
-![](.guides/img/html_boxes_error.png)
+<iframe  width="100%" height="55%" src="https://fruit-active.codio.io/visu/error.html" frameborder="0" allowfullscreen></iframe>
+
+
 
 As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text .. Which is wrong!
 

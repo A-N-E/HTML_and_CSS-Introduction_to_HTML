@@ -9,7 +9,7 @@ This is the root or top-level element of the html document. it can and must cont
 
 Another way of seeing the `index.html` document is :
 
-![](.guides/img/html_boxes.png)
+<iframe  width="100%" height="55%" src="https://fruit-active.codio.io/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe>
 
 You can see that the `<html>` `<head>` `<body>` `<title>` can be considered as "boxes" that contains what is inside them. We will come back to that soon.
 

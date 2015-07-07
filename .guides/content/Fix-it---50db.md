@@ -9,6 +9,8 @@ Go and look at the `index.html` file and fix it so it displays properly. It shou
 
 Once you're done, press the button below.
 
+Hint : The Codio editor is smart enought to find out that there is a problem in your HTML and will put some tags in red meaning : "this tag should not be there!". The error will be between this tag in red and the opening tag matching it.
+
 {Check it!! | custom}(test-fixit)
 
 |||

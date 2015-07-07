@@ -112,8 +112,26 @@
   {
    "id": "762e5fc3-984d-996e-2b2a-3242b03c2f9b",
    "title": "Formatting text",
-   "files": [],
-   "path": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "/07-formatting/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: /07-formatting/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "/07-formatting"
+   ],
    "type": "markdown",
    "content-file": ".guides/content/Formatting-text-762e.md"
   },
@@ -194,6 +212,58 @@
    ],
    "type": "markdown",
    "content-file": ".guides/content/Indenting-e39e.md"
+  },
+  {
+   "id": "1f8e57a-f6f6-a0d5-9d77-5f61ad00703d",
+   "title": "Line breaks and whitespaces",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "/11-line-breaks/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: /11-line-breaks/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "/11-line-breaks"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Line-breaks-and-whitespaces-1f8e.md"
+  },
+  {
+   "id": "702ed8ed-22b2-d02a-f797-e6268c717ddf",
+   "title": "Final Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "/12-final-challenge/index.html",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: /12-final-challenge/index.html",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [
+    "/12-final-challenge"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-Challenge-702e.md"
   }
  ],
  "theme": "charcoal",

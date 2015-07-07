@@ -30,4 +30,10 @@ Read the tips below then indent the code so it looks nice and tidy.
 
 ## How can you indent ?
 
-One way is to put the cursor at the beggining of a line and press the space bar multiple times. It works but it's considered bad
+One way is to put the cursor at the beggining of a line and press the space bar multiple times. It works but it's considered best practice and is not the fastest way.
+
+Another way is to put again your cursor at the begining of a line and press the tab key to indent. This is already better and at least when you use tab the indenting of all the lines match.
+
+Now the smartest way is to use Codio editor's "Beautify" feature. It will take your code and indent it for you!
+Try using it on the example. Click "Tools > Beautify" when you have the focus on the code. If you don't select anything in the code it will "Beautify" all the code in the editor. If you select some lines it will just "Beautify" these lines.
+

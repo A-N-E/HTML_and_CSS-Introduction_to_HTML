@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>visu</title>
+    <style>
+        .top-label{ 
+            text-transform: lowercase; 
+            border-radius: 5px 5px 0 0; 
+            height:10px; 
+            position:absolute; 
+            top:-15px; 
+            left:10px; 
+            font-weight:normal; 
+            font-size:10px; 
+            font-family:arial; 
+            color:#333; 
+            background-color:#ccc; 
+            padding:2px 10px
+        } 
+        .bottom-label{ 
+            text-transform: lowercase; 
+            height:10px; 
+            border-radius: 0 0 5px 5px; 
+            position:absolute; 
+            bottom:-15px; 
+            right:10px; 
+            font-size:10px; 
+            font-weight:normal;  
+            font-family:arial; 
+            color:#333; 
+            background-color:#ccc; 
+            padding:2px 10px 
+        }
+        
+        .left-label{ 
+            text-transform: lowercase; 
+            height:10px; 
+            position:absolute; 
+            top:0px; 
+            left:0px; 
+            font-weight:normal; 
+            font-size:10px; 
+            font-family:arial; 
+            color:#333; 
+            background-color:#ccc; 
+            padding:2px 2px
+        } 
+        .right-label{ 
+            text-transform: lowercase; 
+            height:10px; 
+            border-radius: 0 0 5px 5px; 
+            position:absolute; 
+            bottom:0px; 
+            right:0px; 
+            font-size:10px; 
+            font-weight:normal;  
+            font-family:arial; 
+            color:#333; 
+            background-color:#ccc; 
+            padding:2px 2px 
+        }
+        
+        div.html {
+            position:relative;
+            border:2px dashed #ccc;
+            background-color:#fff;
+            padding:16px;
+            margin:16px;
+            
+        }
+        
+        div.head {
+            position:relative;
+            border:2px dashed #ccc;
+            background-color:#fff;
+            padding:16px;
+            margin:16px;
+        }
+        
+        div.body{
+            position:relative;
+            border:2px solid #ccc;
+            padding:16px;
+            margin:32px 16px 16px 16px;
+            background-image:linear-gradient(#fff,#fff),linear-gradient(#ccc, #ccc);
+            background-clip:content-box, padding-box;
+        }
+        
+        .bodyelem{
+            padding:16px !important;
+            margin:16px !important;
+            background-clip:content-box, padding-box;
+            display:block;
+        }
+        
+        .bodyeleminline{
+            padding:0px 40px !important;
+            margin:0px !important;
+            display:inline-block;
+            
+        }
+        
+        .headelem{
+            position:relative;            
+            border:2px dashed #ccc;
+            background-color:#fff;
+            padding:16px;
+            margin:16px;
+        }
+        
+    </style>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="visu.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        
+        function parseHashBangArgs(aURL) {
+
+            aURL = aURL || window.location.href;
+
+            var vars = {};
+            var hashes = aURL.slice(aURL.indexOf('#') + 1).split('&');
+
+            for(var i = 0; i < hashes.length; i++) {
+               var hash = hashes[i].split('=');
+
+               if(hash.length > 1) {
+                   vars[hash[0]] = hash[1];
+               } else {
+                  vars[hash[0]] = null;
+               }      
+            }
+
+            return vars;
+        }
+        
+        $(document).ready(function(){
+            
+            if(window.location.hash) {
+                
+                var hashes = parseHashBangArgs();
+                
+                if (hashes.url) {
+                    $.get( hashes.url , function( data ) {
+
+                        var head = data.match(/<head[^>]*>[\s\S]*<\/head>/gi);
+                        var body = data.match(/<body[^>]*>[\s\S]*<\/body>/gi);
+                        
+                        visualizebody("div.body .content", body)
+                        visualizehead("div.head .content", head)
+                        
+                    });
+                }
+                
+                
+            
+              
+            } else {
+              alert("You should put the url of the page to visualize in #hash")
+            }
+                        
+        })
+        
+    </script>
+</head>
+<body>
+    <div class="html">
+        <div class="top-label"> &lt;html&gt; </div>
+        <div class="head">
+            <div class="top-label"> &lt;head&gt; </div>
+            <div class="content">Visulization not loaded.</div>
+            <div class="bottom-label"> &lt;/head&gt; </div>
+        </div>
+        <div class="body">
+            <div class="top-label"> &lt;body&gt; </div>
+            <div class="content">Visulization not loaded.</div>
+            <div class="bottom-label"> &lt;/body&gt; </div>
+        </div>
+        <div class="bottom-label"> &lt;/html&gt; </div>
+    </div>
+    
+</body>
+</html>

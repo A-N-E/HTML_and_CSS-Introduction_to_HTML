@@ -4,7 +4,8 @@ An attribute is some information that tells the browser additional information a
 <img src="cute.jpg" alt="A cute puppy and kitten">
 ```
 
-In this case the `src="cute.jpg"` and `alt="A cute puppy and kitten` are two attributes of the img tag. 
+In this case the `src="cute.jpg"` and `alt="A cute puppy and kitten` are two attributes of the img tag.
+
 
 ## The src attribute
 Obviously we have to tell our web page where to get the image from. The way we do this is to use the `src` attribute.
@@ -21,5 +22,10 @@ Users will see this displayed if the image URL is wrong, the image is not in one
 Another great use for this is for screen readers for visually impaired people. Screen readers read out what is on the screen. This is not a problem if it is text. But if you have an image, the browser can read out the contents of the `alt` tag so a blind person gets as much meaning from the page as possible.
 
 ## Other attributes
-Each HTML element has its own set of attributes. We'll learn more about them as we come across new HTML elements.
+Each HTML element has its own set of attributes but all of them share the same syntax :
 
+```
+some_attributes_name="some_value"
+```
+
+We'll learn more about them as we come across new HTML elements.

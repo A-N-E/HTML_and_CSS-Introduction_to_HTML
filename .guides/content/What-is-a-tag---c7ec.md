@@ -37,20 +37,23 @@ In this case, the `<head>` contains a `<title>` which is used to give a title to
 
 Now the `<body>` tag contains "Hello there!!!" which is a text (and as discussed earlier, it should be put in its own tag instead of directly dumped into the `<body>` but it works like that.)
 
+|||warning
+# It is REALLY important that you get the opening and closing tags right or your page will not display properly
 
-**Attention : It is really, really important that you get the opening and closing tags right or your page will not display properly.**
+If you dont close a tag it is like you left the box openened and didnt close it, so everything that comes afterwards will be considered in that box.
 
-Indeed if you dont close a tag it is like you left the box openened and didnt close it, so everything that comes afterwards will be considered in that box.
-
-Let see what it looks like if we didnt close the `<title>` tag in the previous example :
-
-<iframe  width="100%" height="55%" src="https://fruit-active.codio.io/visu/error.html" frameborder="0" allowfullscreen></iframe>
+Let see the difference if we close the `<title>` tag or not in the previous example :
 
 
+| Tag closed | Tag not closed |
+| :--------: | :------------: |
+| <iframe  width="100%" height="320" src="https://fruit-active.codio.io/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe> | <iframe  width="100%" height="320" src="https://fruit-active.codio.io/visu/error.html" frameborder="0" allowfullscreen></iframe> |
 
 As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text .. Which is wrong!
 
-Now let's move to the next section.
+|||
+
+Now let's move to the [next]() section.
 
 
 

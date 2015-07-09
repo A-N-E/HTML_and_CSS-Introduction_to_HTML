@@ -5,7 +5,7 @@ You can see an opened file `index.html` on the left. What you are seeing is a ve
 It looks a little scary with all those *tags* like `<html>` and `<body>` and so on. Don't worry, you'll soon get used to them. 
 
 ## The html element
-This is the root or top-level element of the html document. it can and must contain only two other elements `<head>` and `<body>`. The `<head>` is the part of the page which is not visible and gives meta informations about the page like the `<title>` and other which we will see later. The `<body>` is the main part of the page and will contain all the visible content of the page, text, images and others.
+This is the root or top-level element of the html document. It contains only two other elements `<head>` and `<body>`. The `<head>` is the part of the page which is not visible and gives *meta* information about the page, like the `<title>`,  which we will see later. The `<body>` is the main part of the page and will contain all the visible content of the page, text, images and more.
 
 Another way of seeing the `index.html` document is :
 

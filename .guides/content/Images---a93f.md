@@ -16,10 +16,11 @@ Actually this is not entirely true, it depends on what version of HTML you are u
 - `<img />`
 - `<img></img>`
 
-Did you notice the `/` at the end of `<img />`.
-What this means is that that the img tag is opened and closed and doesnt need an additionnal `</img>` to be closed when used this way.
+Did you notice the `/` at the end of `<img />`?
 
-In general we can remember that a few HTML tags don't need any content inside them, and those tags do not need to be closed.
+What this means is that that the `img` tag is opened and closed and doesn't need an additionnal `</img>` to be closed when used this way.
+
+There are a few HTML tags like this which we'll come across later.
 
 |||
 

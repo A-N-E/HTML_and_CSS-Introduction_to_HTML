@@ -44,5 +44,4 @@ Another way of doing it is to use `<p>` tags. They means "paragraph" and basical
 
 Check the code on the left and see how you can mimick the behaviour of the `<br>` tags with the `<p>`. The only difference is that there is more vertical spaces between 2 paragraphs than between two lines that are separated by a `<br>`. You will know by practicing when to use each of those two tags.
 
-Let's head now to the final section of this guide !
   

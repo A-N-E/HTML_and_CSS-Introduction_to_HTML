@@ -1,4 +1,4 @@
-So let's see if you have remembered what you learned so far ?
+Let's see if you have remembered what you learned so far ?
 
 |||challenge
 ## Create your own page
@@ -21,7 +21,5 @@ Here's what we want you to have on your page.
 |||
 
 Well done! We're now done with that challenge and with this unit.
-
-In the next (optional) section you will find a summary of all the tags we have seen in this unit.
 
 Coming up soon, you'll learn how to create multiple pages and navigate between them.

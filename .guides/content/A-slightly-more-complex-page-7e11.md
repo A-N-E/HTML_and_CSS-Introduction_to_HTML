@@ -14,4 +14,3 @@ Feel free to go ahead and change the contents of the `index.html` file. Don't wo
 
 For example, you could change the content inside the `<h1>Heading</h1>` to `<h1>A very nice heading</h1>` or you can add a paragraph after `<p>Hello there!!!</p>` but before `... and goodbye`
 
-When you are done, please head to the next section

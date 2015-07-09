@@ -11,3 +11,5 @@ As a reminder, here is a table of all the tags we saw in this chapter.
 | `<u>` and `</u>` | The text inside these will be <u>underlined</u>. |
 | `<br>` or `<br/>` | This indicates the browser that we wants a new line at that position (this tag doesn't require a end tag) |
 | `<img>` or `<img/>` | This let us insert and image into the page (this tag doesn't require a end tag)|
+
+That's it for this Unit!

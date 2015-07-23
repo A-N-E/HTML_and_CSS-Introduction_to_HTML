@@ -4,7 +4,7 @@
    "id": "e4e4b4ec-8460-5306-74ff-1669774e9dae",
    "title": "Introduction",
    "files": [],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Introduction-e4e4.md"
@@ -78,7 +78,7 @@
      "action": "close"
     }
    ],
-   "layout": "1-panel-tree",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-is-a-tag---c7ec.md"
@@ -118,19 +118,19 @@
      "action": "close"
     },
     {
-     "path": "/07-formatting/index.html",
+     "path": "07-formatting/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: /07-formatting/index.html",
+     "path": "#preview: 07-formatting/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "/07-formatting"
+    "07-formatting"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Formatting-text-762e.md"
@@ -168,22 +168,10 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "08-img/index.html",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#preview: 08-img/index.html",
-     "panel": 1,
-     "action": "open"
     }
    ],
-   "layout": "",
-   "path": [
-    "08-img"
-   ],
+   "layout": "1-panel",
+   "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Image-attributes-e6d3.md"
   },
@@ -206,7 +194,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell-tree",
    "path": [
     "10-indent"
    ],
@@ -222,19 +210,19 @@
      "action": "close"
     },
     {
-     "path": "/11-line-breaks/index.html",
+     "path": "11-line-breaks/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: /11-line-breaks/index.html",
+     "path": "#preview: 11-line-breaks/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "/11-line-breaks"
+    "11-line-breaks"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Line-breaks-and-whitespaces-1f8e.md"
@@ -248,19 +236,19 @@
      "action": "close"
     },
     {
-     "path": "/12-final-challenge/index.html",
+     "path": "12-final-challenge/index.html",
      "panel": 0,
      "action": "open"
     },
     {
-     "path": "#preview: /12-final-challenge/index.html",
+     "path": "#preview: 12-final-challenge/index.html",
      "panel": 1,
      "action": "open"
     }
    ],
    "layout": "",
    "path": [
-    "/12-final-challenge"
+    "12-final-challenge"
    ],
    "type": "markdown",
    "content-file": ".guides/content/Final-Challenge-702e.md"

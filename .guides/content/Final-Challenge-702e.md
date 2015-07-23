@@ -11,9 +11,9 @@ Here's what we want you to have on your page.
 1. A first level header with any text you like.
 1. Beneath this there should be some text in a `<p>` tag.
 1. Create a second level header with the text 'Images'.
-1. Display the puppy and kitten image.
+1. Display the puppy and kitten image ( `cute.jpg` ).
 1. Put some text in a `<p>` tag that acts as a description for the image.
-1. Display the ugly mole rat.
+1. Display the ugly mole rat  ( `not-cute.jpg` ).
 1. Put some text in a `<p>` tag beneath the rat that contains the word 'ugly', which should be in bold.
 
 {Check it!! | custom}(test-challenge)

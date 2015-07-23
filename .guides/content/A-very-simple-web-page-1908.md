@@ -15,7 +15,7 @@ You can see that the `<html>` `<head>` `<body>` `<title>` can be considered as "
 
 
 ## The Preview window
-In the window below `index.html` is the 'Preview' window. This shows what happens when your browser runs the web page.
+Below `index.html` is the 'Preview' window. This shows what happens when your browser runs the web page.
 
 Go ahead and change the `Hello there!!!` text to something else. Next, press the 'Reload Preview' button in the preview window.
 

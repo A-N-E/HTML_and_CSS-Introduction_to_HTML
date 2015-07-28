@@ -56,5 +56,3 @@ The Internet is a global system consisting of interconnected computer networks t
 Now let's see in a simplified way what actually happends when you see a web page : 
 
 ![](.guides/img/anatomy_web_request.png)
-
-Let's head to the next section now !

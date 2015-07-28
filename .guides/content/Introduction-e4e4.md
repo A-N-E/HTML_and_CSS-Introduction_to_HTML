@@ -24,5 +24,3 @@ There is not much you need to know, but here are a few things you might want to 
 
 - If you stop the Guide, you can restart it at any time from the Tools->Guides->Play menu item.
 ![](.guides/img/s3.png)
-
-Let's head to the next section now !

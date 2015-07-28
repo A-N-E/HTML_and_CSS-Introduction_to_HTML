@@ -24,7 +24,7 @@ Go ahead and change the `Hello there!!!` text to something else. Next, press the
 
 You should see your changes shown nicely.
 
-When you are done playing with the text, let's head to the next section for more !
+When you are done playing with the text, we continue to the next section !
 
 
 

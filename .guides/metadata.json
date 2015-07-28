@@ -7,7 +7,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Introduction-e4e4.md"
+   "content-file": ".guides/content/Introduction-e4e4.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "7596b5d5-7fdf-1dd8-5fe-f5a3652c775",
@@ -15,7 +17,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Some-terminology-7596.md"
+   "content-file": ".guides/content/Some-terminology-7596.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "19083fd-eb99-12d6-dcc5-bfd4a1d4b5de",
@@ -41,7 +45,11 @@
     "03-very-simple-page"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/A-very-simple-web-page-1908.md"
+   "content-file": ".guides/content/A-very-simple-web-page-1908.md",
+   "chapter": true,
+   "reset": [
+    "03-very-simple-page"
+   ]
   },
   {
    "id": "7e11e269-21cc-8bf2-5748-57704a238518",
@@ -67,7 +75,11 @@
     "04-slightly-more-complex"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/A-slightly-more-complex-page-7e11.md"
+   "content-file": ".guides/content/A-slightly-more-complex-page-7e11.md",
+   "chapter": true,
+   "reset": [
+    "04-slightly-more-complex"
+   ]
   },
   {
    "id": "c7ec8f06-4f94-d0f1-c372-607732e723cc",
@@ -81,7 +93,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/What-is-a-tag---c7ec.md"
+   "content-file": ".guides/content/What-is-a-tag---c7ec.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "50dbd402-bb1a-bb7f-7e0b-5e4f429f3444",
@@ -107,7 +121,11 @@
     "06-fixit"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Fix-it---50db.md"
+   "content-file": ".guides/content/Fix-it---50db.md",
+   "chapter": true,
+   "reset": [
+    "06-fixit"
+   ]
   },
   {
    "id": "762e5fc3-984d-996e-2b2a-3242b03c2f9b",
@@ -133,7 +151,11 @@
     "07-formatting"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Formatting-text-762e.md"
+   "content-file": ".guides/content/Formatting-text-762e.md",
+   "chapter": true,
+   "reset": [
+    "07-formatting"
+   ]
   },
   {
    "id": "a93ffb7e-b2b3-1a-5856-78fbb627100a",
@@ -159,7 +181,11 @@
     "08-img"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Images---a93f.md"
+   "content-file": ".guides/content/Images---a93f.md",
+   "chapter": true,
+   "reset": [
+    "08-img"
+   ]
   },
   {
    "id": "e6d3eed9-36be-bb5a-2bbb-1fe55e6eb00a",
@@ -173,7 +199,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Image-attributes-e6d3.md"
+   "content-file": ".guides/content/Image-attributes-e6d3.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "e39e16c6-2bb3-bf2e-c5c9-26f6381e5b9c",
@@ -199,7 +227,9 @@
     "10-indent"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Indenting-e39e.md"
+   "content-file": ".guides/content/Indenting-e39e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "1f8e57a-f6f6-a0d5-9d77-5f61ad00703d",
@@ -225,7 +255,9 @@
     "11-line-breaks"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Line-breaks-and-whitespaces-1f8e.md"
+   "content-file": ".guides/content/Line-breaks-and-whitespaces-1f8e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "702ed8ed-22b2-d02a-f797-e6268c717ddf",
@@ -251,7 +283,11 @@
     "12-final-challenge"
    ],
    "type": "markdown",
-   "content-file": ".guides/content/Final-Challenge-702e.md"
+   "content-file": ".guides/content/Final-Challenge-702e.md",
+   "chapter": true,
+   "reset": [
+    "12-final-challenge"
+   ]
   },
   {
    "id": "d2f68a2-3ba6-7b4-97c1-fd0c2ce7bae0",
@@ -259,7 +295,9 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Tags-summary-d2f6.md"
+   "content-file": ".guides/content/Tags-summary-d2f6.md",
+   "chapter": false,
+   "reset": []
   }
  ],
  "theme": "charcoal",

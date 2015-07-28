@@ -52,8 +52,3 @@ Let see what happens if we do not close the  `<title>` tag:
 As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text, which is wrong!
 
 |||
-
-Now let's move to the [next]() section.
-
-
-

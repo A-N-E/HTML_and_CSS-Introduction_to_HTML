@@ -11,7 +11,7 @@ Once you're done, press the button below.
 
 Hint : The Codio editor is smart enough to find out that there is a problem in your HTML and will put some tags in red, meaning "this tag should not be there!". The error will be between this tag in red and the opening tag matching it.
 
-{Check it!! | custom}(test-fixit)
+{Check It!|assessment}(test-3841107388)
 
 |||
 

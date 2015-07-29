@@ -24,9 +24,4 @@ There are a few HTML tags like this which we'll come across later.
 
 |||
 
-|||challenge
-In the file tree on the far left is a second image `not-cute.jpg`. See if you can modify `index.html` so this image is displayed rather than the puppy and kitten.
-
-{Check it!! | custom}(test-img)
-
-|||
+{Check It!|assessment}(test-1585508735)

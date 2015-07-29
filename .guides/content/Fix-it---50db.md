@@ -1,17 +1,4 @@
 We just said how important it is to get your opening and closing tags correctly formatted. Here's a little challenge for you.
 
-|||challenge
-We are now showing you a new html file on the left. If you look at the Preview window below it, you will see that 'Smaller Heading' is not displaying correctly. 
-
-Go and look at the `index.html` file and fix it so it displays properly. It should look like this...
-
-![](.guides/img/fixit-02.png)
-
-Once you're done, press the button below.
-
-Hint : The Codio editor is smart enough to find out that there is a problem in your HTML and will put some tags in red, meaning "this tag should not be there!". The error will be between this tag in red and the opening tag matching it.
-
 {Check It!|assessment}(test-3841107388)
-
-|||
 

@@ -9,10 +9,9 @@ This is the root or top-level element of the html document. It contains only two
 
 Another way of seeing the `index.html` document is :
 
-<iframe  width="100%" height="55%" src="/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe1.png)
 
 You can see that the `<html>` `<head>` `<body>` `<title>` can be considered as "boxes" that contains what is inside them. We will come back to that soon.
-
 
 ## The Preview window
 Below `index.html` is the 'Preview' window. This shows what happens when your browser runs the web page.

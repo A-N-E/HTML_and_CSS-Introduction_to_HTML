@@ -12,12 +12,12 @@ Remember your box analogy ? We have to put the words "bold" "italic" "underlined
 
 Here is the structure of the document initially :
 
-<iframe  width="100%" height="110%" src="https://fruit-active.codio.io/visu/visu.html#url=/07-formatting/index.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe3.png)
 
 And here is how it should look like :
 
-<iframe  width="100%" height="110%" src="https://fruit-active.codio.io/visu/visu.html#url=/visu/07-formatting/result.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe4.png)
 
-Now use the `<b>` `<u>` `<i>` tags in the Codio editor on the left and <a href="#checkit">check it</a> again :)
+Now use the `<b>` `<u>` `<i>` tags in the Codio editor on the left and check it again :)
 
 |||

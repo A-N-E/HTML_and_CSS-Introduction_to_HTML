@@ -20,13 +20,13 @@ Here is our basic html from sections 3.
 </head>
 
 <body>
-    Hello there!!!
+    An empty web page
 </body>
 
 </html>
 ```
 
-<iframe  width="100%" height="55%" src="https://fruit-active.codio.io/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe1.png)
 
 And here is a way of viewing it as "boxes".
 So we have the `<html>` tag which is the first box of every html document.
@@ -47,7 +47,7 @@ Let see what happens if we do not close the  `<title>` tag:
 
 | Tag closed | Tag not closed |
 | :--------: | :------------: |
-| <iframe  width="100%" height="320" src="https://fruit-active.codio.io/visu/visu.html#url=/03-very-simple-page/index.html" frameborder="0" allowfullscreen></iframe> | <iframe  width="100%" height="320" src="https://fruit-active.codio.io/visu/error.html" frameborder="0" allowfullscreen></iframe> |
+| ![](.guides/img/iframe1.png) | ![](.guides/img/iframe2.png) |
 
 As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text, which is wrong!
 

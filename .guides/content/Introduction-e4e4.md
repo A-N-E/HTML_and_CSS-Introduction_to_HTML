@@ -12,9 +12,9 @@ In this module we will introduce the basics of HTML. We assume you have absolute
 
 |||
 
-## Using a Codio Guide
+## Using Codio Guides
 
-There is not much you need to know, but here are a few things you might want to know.
+Here are the basics for navigating Codio Guides.
 
 - You can move forwards and backwards one page at a time using the arrow buttons in the left of the header bar at the top.
 ![](.guides/img/s1.png)

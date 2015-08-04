@@ -32,9 +32,7 @@ A system for marking or tagging a document that indicates its logical structure 
 |||definition
 # Server
 
-In information technology, a server is a computer program that provides services to other computer programs (and their users) in the same or other computers.
-
-The computer that a server program runs in is also frequently referred to as a server (though it may be used for other purposes as well).
+In information technology, a server is a computer that provides services to other computer programs (and their users) in the same or other computers.
 
 Specific to the Web, a Web server is the computer program (housed in a computer) that serves requested HTML pages or files.
 |||

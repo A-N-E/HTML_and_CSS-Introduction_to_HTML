@@ -1,6 +1,6 @@
 # Bold, italic and underline
 
-In the left pane you will see the code for another web page, as you see, all the text look the same.
+In the left pane you will see the code for another web page, as you see, all the text looks the same.
 
 {Check It!|assessment}(test-141496199)
 

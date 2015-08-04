@@ -1,8 +1,8 @@
-Now we are going to brighten our page up with an image. Over on the left hand side, we can see some HTML code with an image already created.
+Now we are going to brighten our page up with an image. Over on the left hand side, we can see some HTML code which contains an image.
 
-It's actually very easy to add images just using the `<img>` tag. 
+It's actually very easy to add images by using the `<img>` tag. 
 
-`src="cute.jpg"` tells the browser that the image to load in this tag is `cute.jpg` image. Try clicking on `cute.jpg` and you can see the file open up.
+`src="cute.jpg"` tells the browser that the image to load in this tag is `cute.jpg` image. Try clicking on `cute.jpg` in the Filetree panel and you can see the file open up.
 
 We'll explain `src=` in more detail on the next page.
 

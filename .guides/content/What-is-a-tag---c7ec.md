@@ -1,4 +1,4 @@
-We have been talking about tags a lot. So what is a tag?
+We have been talking about tags a lot but what are they?
 
 |||definition
 - A tag defines an HTML element like `<body>`, or `<h1>` or `<p>`.
@@ -26,21 +26,20 @@ Here is our basic html from sections 3.
 </html>
 ```
 
+And here is a way of viewing it as "boxes".
+
 ![](.guides/img/iframe1.png)
 
-And here is a way of viewing it as "boxes".
-So we have the `<html>` tag which is the first box of every html document.
+We have the `<html>` tag which is the first box of every html document. It contains two other tags which are `<head>` and `<body>`
 
-It contains two other tags which are `<head>` and `<body>`
+In this case, the `<head>` contains a `<title>` which is used to give a title to the page and also used by the browser for the title of the window or tab. In this case we left it empty.
 
-In this case, the `<head>` contains a `<title>` which is used to give a title to the page and also used by the browser for tht title of the window. In this case we left it empty.
-
-Now the `<body>` tag contains "Hello there!!!" which is text. As discussed earlier, we should really put it into its own tag, as we'll discuss later, but it still works.
+The `<body>` tag contains "Hello there!!!" which is text. 
 
 |||warning
 # It is REALLY important that you get the opening and closing tags right or your page will not display properly
 
-If you dont close a tag it is like you left the box openened and didnt close it, so everything that comes afterwards will be considered in that box.
+If you dont close a tag the browser treats thinks you are still defining its contents, so everything that comes afterwards will be considered in that box.
 
 Let see what happens if we do not close the  `<title>` tag:
 

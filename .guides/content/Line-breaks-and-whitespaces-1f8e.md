@@ -12,7 +12,7 @@ Look at this code :
 
 There is a return after `here,` but if you look at the preview :
 
-<iframe  width="100%" height="50" src="11-line-breaks/linebreaks.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe5.png)
 
 You will notice that the line continues as nothing happend.
 
@@ -25,7 +25,7 @@ Here is another example :
 shows as one whitespace!</p>
 ```
 
-<iframe  width="100%" height="50" src="11-line-breaks/whitespaces.html" frameborder="0" allowfullscreen></iframe>
+![](.guides/img/iframe6.png)
 
 ## How do we then add a line break ?
 

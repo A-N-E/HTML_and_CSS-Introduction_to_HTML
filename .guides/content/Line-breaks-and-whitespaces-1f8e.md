@@ -16,7 +16,7 @@ There is a return after `here,` but if you look at the preview :
 
 You will notice that the line continues as nothing happend.
 
-In general the browser ignores line breaks and condense multiple whitespaces into one.
+In general the browser ignores line breaks and condenses multiple whitespaces into one.
 
 Here is another example :
 
@@ -42,6 +42,6 @@ And if you look at the preview window you will see a new line everytime there is
 
 Another way of doing it is to use `<p>` tags. They means "paragraph" and basically everything inside a `<p>` and `</p>` is considered as one paragraph. If you start then another `<p>` it will be a second paragraph.
 
-Check the code on the left and see how you can mimick the behaviour of the `<br>` tags with the `<p>`. The only difference is that there is more vertical spaces between 2 paragraphs than between two lines that are separated by a `<br>`. You will know by practicing when to use each of those two tags.
+Check the code on the left and see how you can mimick the behaviour of the `<br>` tags with the `<p>`. The only difference is that there are more vertical spaces between 2 paragraphs than between two lines that are separated by a `<br>`. You will know by practicing when to use each of those two tags.
 
   

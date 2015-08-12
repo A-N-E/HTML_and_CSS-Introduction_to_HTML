@@ -1,6 +1,12 @@
-On the far left you can see the Filetree panel which shows all the files in your workspace.
+On the far left you can see the Filetree panel. It shows the folder containing the files related to the current section.
 
-The opened file `index.html` on the file contains code for a very basic web page. It looks a little scary with all those *tags* like `<html>` and `<body>` and so on. Don't worry, you'll soon get used to them. 
+The opened file `index.html` on the file contains code for a very basic web page. It looks a little scary with all those *tags* like `<html>` and `<body>` and so on. Don't worry, you'll soon get used to them.
+
+## The doctype
+On the first line you can notice : `<!DOCTYPE html>`
+This is a document type declaration or DOCTYPE. It is an instruction that tells the browser which version of HTML you are using for this document.
+The one you see here : `<!DOCTYPE html>` is the one for HTML5.
+There are different doctypes if you are using HTML4 or XHTML but for the moment we will always use HTML5 as it is the most recent and recommended version of HTML.
 
 ## The html element
 This is the root or top-level element of the HTML document. It contains only two other elements `<head>` and `<body>`. The `<head>` is the part of the page which is not visible and gives *meta* information about the page, like the `<title>`, which is displayed on the browser tab. The `<body>` is the main part of the page and will contain all the visible content of the page, text, images and more.

@@ -18,7 +18,7 @@ Actually this is not entirely true, it depends on what version of HTML you are u
 
 Did you notice the `/` at the end of `<img />`?
 
-What this means is that that the `img` tag is opened and closed and doesn't need an additionnal `</img>` to be closed when used this way.
+What this means is that the `img` tag is opened and closed and doesn’t need an additional `</img>` to be closed when used this way.
 
 There are a few HTML tags like this which we'll come across later.
 

@@ -3,7 +3,12 @@
   {
    "id": "e4e4b4ec-8460-5306-74ff-1669774e9dae",
    "title": "Introduction",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -293,6 +298,7 @@
    "id": "d2f68a2-3ba6-7b4-97c1-fd0c2ce7bae0",
    "title": "Tags summary",
    "files": [],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Tags-summary-d2f6.md",

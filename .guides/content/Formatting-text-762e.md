@@ -8,7 +8,7 @@ In the left pane you will see the code for another web page, as you see, all the
 |||info
 # If you can't find it
 
-Remember your box analogy ? We have to put the words "bold" "italic" "underlined" in boxes to tell the browser that it should display them differently.
+Remember your box analogy ? We have to put the words "bold" "underlined" "italic" in boxes to tell the browser that it should display them differently.
 
 Here is the structure of the document initially :
 

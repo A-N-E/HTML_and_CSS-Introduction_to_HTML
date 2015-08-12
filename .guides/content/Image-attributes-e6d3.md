@@ -4,7 +4,7 @@ An attribute is some information that tells the browser additional information a
 <img src="cute.jpg" alt="A cute puppy and kitten">
 ```
 
-In the example above the `src="cute.jpg"` and `alt="A cute puppy and kitten` are two attributes of the img tag.
+In the example above the `src="cute.jpg"` and `alt="A cute puppy and kitten"` are two attributes of the img tag.
 
 ## The src attribute
 

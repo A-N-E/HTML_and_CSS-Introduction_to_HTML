@@ -9,7 +9,7 @@ We have been talking about tags a lot but what are they?
 
 As we discussed earlier you can see a pair of tags, one opening and one closing as a "box" that is wrapped around content and defines what kind of content it is.
 
-Here is our basic html from sections 3.
+Here is our basic html from section 3.
 
 ``` html
 <!DOCTYPE html>
@@ -39,7 +39,7 @@ The `<body>` tag contains "Hello there!!!" which is text.
 |||warning
 # It is REALLY important that you get the opening and closing tags right or your page will not display properly
 
-If you dont close a tag the browser treats thinks you are still defining its contents, so everything that comes afterwards will be considered in that box.
+If you do not close a tag the browser treats thinks you are still defining its contents, so everything that comes afterwards will be considered in that box.
 
 Let see what happens if we do not close the  `<title>` tag:
 

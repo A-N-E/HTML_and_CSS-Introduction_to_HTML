@@ -47,10 +47,10 @@ It talks to web servers and receives and displays HTML pages.
 |||definition
 # Internet
 
-The Internet is a global system consisting of interconnected computer networks that use the standard internet protocol suite (TCP/IP) to link billion of devices together.
+The Internet is a global system consisting of interconnected computer networks that use the standard internet protocol suite (TCP/IP) to link billions of devices together.
 
 |||
 
-Now let's see in a simplified way what actually happends when you see a web page : 
+Now let’s see in a simplified way what actually happens when you see a web page : 
 
 ![](.guides/img/anatomy_web_request.png)

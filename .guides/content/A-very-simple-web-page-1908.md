@@ -18,7 +18,7 @@ We can visualise the `index.html` document as a nested tree of elements:
 You can see that the `<html>` `<head>` `<body>` `<title>` can be considered as "boxes" that contains what is inside them. 
 
 ## The Preview window
-Below the code windows is a 'Preview' window pointing to our simple web page. Go ahead and change the `Hello there!!!` text to something else. Next, press the 'Reload Preview' button in the preview window.
+Below the code windows is a 'Preview' window pointing to our simple web page. Go ahead and change the `An empty web page` text to something else. Next, press the 'Reload Preview' button in the preview window.
 
 ![](.guides/img/reload.png)
 

@@ -297,7 +297,12 @@
   {
    "id": "d2f68a2-3ba6-7b4-97c1-fd0c2ce7bae0",
    "title": "Tags summary",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",

@@ -25,3 +25,22 @@ There are a few HTML tags like this which we'll come across later.
 |||
 
 {Check It!|assessment}(test-1585508735)
+
+
+|||guidance
+
+```html
+<!DOCTYPE HTML>
+<html>
+  <head>
+      <title></title>
+  </head>
+  <body>
+    <h1>Puppies and Kittens</h1>
+    <p>Here is a cuter picture.</p>
+    <img src="not-cute.jpg" alt="A cute puppy and kitten.">
+  </body> 
+</html>
+```
+
+|||

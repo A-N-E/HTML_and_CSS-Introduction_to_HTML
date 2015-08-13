@@ -4,6 +4,28 @@ In the left pane you will see the code for another web page, as you see, all the
 
 {Check It!|assessment}(test-141496199)
 
+|||guidance
+
+Solution :
+
+```html
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <h1>Font formatting</h1>
+    <p>Your job is to make this <b>bold</b>, this <u>underlined</u> and this one <i>italic</i>.</p>
+</body>
+
+</html>
+```
+
+|||
+
 
 |||info
 # If you can't find it

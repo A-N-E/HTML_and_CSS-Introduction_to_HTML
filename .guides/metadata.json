@@ -307,10 +307,22 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Tags-summary-d2f6.md",
-   "chapter": false,
+   "chapter": true,
+   "reset": []
+  },
+  {
+   "id": "715c1da-86dc-1b0a-7f66-a944764497c9",
+   "title": "That's all folks",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-715c.md",
+   "chapter": true,
    "reset": []
   }
  ],
  "theme": "charcoal",
- "scripts": []
+ "scripts": [],
+ "lexikonTopic": ""
 }

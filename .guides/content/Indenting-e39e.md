@@ -1,6 +1,6 @@
 One important habit to acquire is to nicely indent your code.
 
-Take a look at the code on the left. Everything is on the same line. It's difficult to read and understand the structure of the page.
+Take a look at the code on the left. Everything is on the same line. It's difficult to read and understand the structure of the page. (Depending on the configuration of your code editor, it might also be on multiple lines because wrap is activated, but if you look at the left there is only the number "1" displayed, meaning it's actually all on one line)
 
 If we come back to our box analogy, indenting allow us to visually see the "boxes" in our code.
 

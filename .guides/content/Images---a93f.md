@@ -10,15 +10,7 @@ We'll explain `src=` in more detail on the next page.
 ### Image tags do not have a closing tag
 Notice that there is no closing tag to match the opening tag. The `<img>` tag is one of the few tags where this is the case.
 
-Actually this is not entirely true, it depends on what version of HTML you are using. We will come back to this later when we compare the different versions of HTML. In general the browser will accept:
-
-- `<img>`
-- `<img />`
-- `<img></img>`
-
-Did you notice the `/` at the end of `<img />`?
-
-What this means is that the `img` tag is opened and closed and doesn’t need an additional `</img>` to be closed when used this way.
+What this means is that the `img` tag is opened and closed by itself and doesn’t need an additional `</img>` to be closed when used this way.
 
 There are a few HTML tags like this which we'll come across later.
 

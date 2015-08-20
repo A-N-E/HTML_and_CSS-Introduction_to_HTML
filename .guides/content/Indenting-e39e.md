@@ -6,7 +6,7 @@ If we come back to our box analogy, indenting allow us to visually see the "boxe
 
 |||challenge
 ## How it should look
-Below is the same code as you see on the left, but nicely indented. Notice how you can add extra line breaks to make things even clearer. This won't affect the way it appears when it runs.
+Below is the same code as you see on the left, but nicely indented. Notice how you can add extra line breaks to make things even clearer. This won't affect the way it appears when it runs. Adding one or more spaces inside tags, doesn't matter either as the browser will always only keep a maximum of one space.
 
 Read the tips below then indent the code so it looks nice and tidy.
 

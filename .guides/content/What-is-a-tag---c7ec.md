@@ -26,7 +26,7 @@ Here is our basic html from section 3.
 </html>
 ```
 
-And here is a way of viewing it as "boxes".
+And here is a way of viewing it as "boxes". When you write a tag like `<html>` it opens a box and everything that comes after, until we get to the closing tag `</html>` is inside that box. That works for all the tags, so we have a serie of boxes inside boxes.
 
 ![](.guides/img/iframe1.png)
 
@@ -48,6 +48,6 @@ Let see what happens if we do not close the  `<title>` tag:
 | :--------: | :------------: |
 | ![](.guides/img/iframe1.png) | ![](.guides/img/iframe2.png) |
 
-As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text, which is wrong!
+As the `<title>` tag is never closed, everything that comes afterwards is included in it. In this case we have the `<body>` and its text inside the `<title>`, which is wrong! The result of it would be that our page is not visible at all !
 
 |||

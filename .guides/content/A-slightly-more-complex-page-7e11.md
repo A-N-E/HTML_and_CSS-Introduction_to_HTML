@@ -17,7 +17,7 @@ This a special (fake) tag that allows developer to leave comments to themselves 
 This won't display anything in the browser! It's just visible for people reading the source code.
 
 ## Change it
-Feel free to go ahead and change the contents of the `index.html` file. Don't worry if you wreck it. 
+Feel free to go ahead and change the content of the `index.html` file. Don't worry if you wreck it. 
 
 For example, you could change the content inside the `<h1>Heading</h1>` to `<h1>A very nice heading</h1>` or you can add a paragraph after `<p>Hello there!!!</p>` but before `... and goodbye`
 

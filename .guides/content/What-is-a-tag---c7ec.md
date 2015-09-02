@@ -39,7 +39,7 @@ The `<body>` tag contains "Hello there!!!" which is text.
 |||warning
 # It is REALLY important that you get the opening and closing tags right or your page will not display properly
 
-If you do not close a tag the browser treats thinks you are still defining its contents, so everything that comes afterwards will be considered in that box.
+If you do not close a tag the browser thinks that you are still defining its contents, so everything that comes afterwards will be considered inside that tag.
 
 Let see what happens if we do not close the  `<title>` tag:
 

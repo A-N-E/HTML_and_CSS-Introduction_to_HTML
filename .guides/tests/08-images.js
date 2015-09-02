@@ -10,7 +10,7 @@ if ($("img").attr("src") != "not-cute.jpg") {
 }
 
 if( errors.length <= 0 ) {
-    process.stdout.write('Well done!!!')
+    process.stdout.write('Well done!')
     process.exit(0);
 }
 else {

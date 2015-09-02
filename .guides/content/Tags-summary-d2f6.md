@@ -11,7 +11,7 @@ As a reminder, here is a table of all the tags we saw in this chapter.
 
 `<html>` and `</html>`
 
-</td> <td> These should be the first and last tags of every html document.</td> </tr>
+</td> <td> These should be the first and last tags of every HTML document.</td> </tr>
 
 <tr> <td> 
 
@@ -23,7 +23,7 @@ As a reminder, here is a table of all the tags we saw in this chapter.
 
 `<body>` and `</body>`
 
-</td> <td> This is the 'visible' part of and html document and where the real content is.  </td> </tr>
+</td> <td> This is the 'visible' part of and HTML document and where the real content is.  </td> </tr>
 
 <tr> <td> 
 

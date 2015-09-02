@@ -40,7 +40,7 @@ if ($("p:nth-of-type(3) b").text().trim().toLowerCase() != "ugly") {
 
 
 if( errors.length <= 0 ) {
-    process.stdout.write('Well done!!!')
+    process.stdout.write('Well done!')
     process.exit(0);
 }
 else {

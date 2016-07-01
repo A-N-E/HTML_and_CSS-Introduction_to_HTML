@@ -1,0 +1,66 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-141496199",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Font formatting",
+   "instructions": "Your job is to make the word 'bold' actually **bold**, the word 'underlined' <u>underlined</u> and 'italic' actually *italic*. It should look like this ...\n\n![](.guides/img/bui.png)\n\nThe way you do this is to use tags to enclose the piece of text you want to change in order to get the right effect.\n\nHere are some tips and clues\n\n- Try just bold first before you do all 3. This way you can be sure you have understood the idea first.\n\n- The tag for bold is `<b>` (don't forget the closing tag)\n- The tag for underlined is `<u>`\n- The tag for italic is `<i>`\n\n\n**Important** : if you want to preview your changes, press the Reload Preview button. \n\nWhen you're done, press the button below to check your code.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/07-formatting.js",
+   "points": 2
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1585508735",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Change the image",
+   "instructions": "In the file tree on the far left is a second image `not-cute.jpg`. See if you can modify `index.html` so this image is displayed rather than the puppy and kitten.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/08-images.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3841107388",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Fix it !",
+   "instructions": "We are now showing you a new HTML file on the left. If you look at the Preview window below it, you will see that 'Smaller Heading' is not displaying correctly. \n\nGo and look at the `index.html` file and fix it so it displays properly. It should look like this...\n\n![](.guides/img/fixit-02.png)\n\nOnce you're done, press the button below.\n\nHint : The Codio editor is smart enough to find out that there is a problem in the HTML and will put some tags in red, meaning \"this tag should not be there!\". The error will be between this tag in red and the opening tag matching it. Here is how it looks in the code window :\n|Dark theme | Light theme |\n| :-: | :-: |\n| ![](.guides/img/hint1.png) |![](.guides/img/hint2.png) |\n\nThis is not your fault and it is just the codio editor understanding that there is something wrong inside the `body` tag. When you will have solved this challenge the red will disappear.",
+   "command": "bash .guides/tests/exec.sh .guides/tests/06-fixit.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-779907100",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Create your own page",
+   "instructions": "You should create your own web page by modifying `index.html` on the left. \n\nProceed one item at a time and then reload the Preview to check how you are doing. Don't feel you have to do it all at once before checking.\n\nHere's what we want you to have on your page.\n\n1. A first level header with any text you like.\n1. Beneath this there should be some text in a `<p>` tag.\n1. Create a second level header with the text 'Images'.\n1. Display the puppy and kitten image ( `cute.jpg` ).\n1. Put some text in a `<p>` tag that acts as a description for the image.\n1. Display the ugly mole rat  ( `not-cute.jpg` ).\n1. Put some text in a `<p>` tag beneath the rat that contains the word 'ugly', which should be in bold.\n\nHere is how the final result should look :\n![](.guides/img/final-result.png)\n",
+   "command": "bash .guides/tests/exec.sh .guides/tests/12-final-challenge.js",
+   "points": 5
+  }
+ }
+]

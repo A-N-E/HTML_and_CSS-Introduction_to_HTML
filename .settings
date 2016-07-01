@@ -1,4 +1,5 @@
 [editor]
+tab_size = 2
 ; enter your editor preferences here...
 
 [view-javascript-code]
@@ -26,7 +27,6 @@
 ; enter your code-beautifier preferences here...
 
 [guides]
-theme = light
 ; enter your guides preferences here...
 
 [settings]
@@ -44,9 +44,6 @@ theme = light
 [project]
 ; enter your project preferences here...
 
-[codio-bower]
-; enter your codio-bower preferences here...
-
 [install-software]
 ; enter your install-software preferences here...
 
@@ -55,4 +52,7 @@ theme = light
 
 [container]
 ; enter your container preferences here...
+
+[education]
+; enter your education preferences here...
 

@@ -1,0 +1,101 @@
+{
+ "name": "HTML_and_CSS-Introduction_to_HTML",
+ "children": [
+  {
+   "title": "Introduction",
+   "id": "e4e4b4ec-8460-5306-74ff-1669774e9dae",
+   "pageId": "e4e4b4ec-8460-5306-74ff-1669774e9dae",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Some terminology",
+     "id": "7596b5d5-7fdf-1dd8-5fe-f5a3652c775",
+     "pageId": "7596b5d5-7fdf-1dd8-5fe-f5a3652c775",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "A very simple web page",
+   "id": "19083fd-eb99-12d6-dcc5-bfd4a1d4b5de",
+   "pageId": "19083fd-eb99-12d6-dcc5-bfd4a1d4b5de",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "A slightly more complex page",
+   "id": "7e11e269-21cc-8bf2-5748-57704a238518",
+   "pageId": "7e11e269-21cc-8bf2-5748-57704a238518",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "What is a tag ?",
+     "id": "c7ec8f06-4f94-d0f1-c372-607732e723cc",
+     "pageId": "c7ec8f06-4f94-d0f1-c372-607732e723cc",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Fix it !",
+   "id": "50dbd402-bb1a-bb7f-7e0b-5e4f429f3444",
+   "pageId": "50dbd402-bb1a-bb7f-7e0b-5e4f429f3444",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Formatting text",
+   "id": "762e5fc3-984d-996e-2b2a-3242b03c2f9b",
+   "pageId": "762e5fc3-984d-996e-2b2a-3242b03c2f9b",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Images !",
+   "id": "a93ffb7e-b2b3-1a-5856-78fbb627100a",
+   "pageId": "a93ffb7e-b2b3-1a-5856-78fbb627100a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Image attributes",
+     "id": "e6d3eed9-36be-bb5a-2bbb-1fe55e6eb00a",
+     "pageId": "e6d3eed9-36be-bb5a-2bbb-1fe55e6eb00a",
+     "type": "page"
+    },
+    {
+     "title": "Indenting",
+     "id": "e39e16c6-2bb3-bf2e-c5c9-26f6381e5b9c",
+     "pageId": "e39e16c6-2bb3-bf2e-c5c9-26f6381e5b9c",
+     "type": "page"
+    },
+    {
+     "title": "Line breaks and whitespaces",
+     "id": "1f8e57a-f6f6-a0d5-9d77-5f61ad00703d",
+     "pageId": "1f8e57a-f6f6-a0d5-9d77-5f61ad00703d",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final Challenge",
+   "id": "702ed8ed-22b2-d02a-f797-e6268c717ddf",
+   "pageId": "702ed8ed-22b2-d02a-f797-e6268c717ddf",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Tags summary",
+   "id": "d2f68a2-3ba6-7b4-97c1-fd0c2ce7bae0",
+   "pageId": "d2f68a2-3ba6-7b4-97c1-fd0c2ce7bae0",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "That's all folks",
+   "id": "715c1da-86dc-1b0a-7f66-a944764497c9",
+   "pageId": "715c1da-86dc-1b0a-7f66-a944764497c9",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
